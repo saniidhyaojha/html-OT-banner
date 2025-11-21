@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OT Banner Demo</title>
+  <!-- OT Banner Snippet -->
+  YOUR_OT_TEST_SCRIPT_URL</script>
+</head>
+<body>
+  <h1>Welcome to OT Banner Demo</h1>
+  <!-- Embedded YouTube -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKscript>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'GA_TRACKING_ID');
+  </script>
+  
+  <!-- Vimeo -->
