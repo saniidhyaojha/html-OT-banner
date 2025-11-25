@@ -6,30 +6,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OT Banner Test Page</title>
 
-   <!-- OneTrust Cookies Consent Notice start for saniidhyaojha.github.io/html-OT-banner/ -->
-
-<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="019ab9d5-5cd8-7acf-9dea-fbfcd02566ae-test" ></script>
-<script type="text/javascript">
-function OptanonWrapper() { }
-</script>
-<!-- OneTrust Cookies Consent Notice end for saniidhyaojha.github.io/html-OT-banner/ -->
-
-    YOUR_OT_SCRIPT_URL</script>
+    <!-- OneTrust Cookies Consent Notice -->
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+        type="text/javascript" charset="UTF-8"
+        data-domain-script
+    </script>
+    <!-- End OneTrust Cookies Consent Notice -->
 
     <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js    <script>
+    <script async src="https://www.googletjs?id=GA_TRACKING_ID</script>
+    <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'GA_TRACKING_ID');
     </script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        iframe {
+            margin: 20px;
+        }
+    </style>
 </head>
 <body>
     <h1>Welcome to OT Banner Test Page</h1>
     <p>This page includes OT Banner, Google Analytics, YouTube, and Vimeo embeds for cookie scanning.</p>
 
     <!-- YouTube Embed -->
-    https://www.youtube.com/embed/v=Gr1uvR-lZJo</iframe>
-
-    <!-- Vimeo Embed -->
-
+    <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/Gr1uvR-lZJo"
+        frameborder="0" allowfullscreeno/76979871"
+       
+</html>
